@@ -1,0 +1,207 @@
+autor,fecha,titulo
+John Campbell,"May 13, 2021",Alternative data for hedge funds & portfolio management
+Marie Moynihan,"May 18, 2021",Extract Summit 2021 - come join the web data revolution
+Zyte team,"May 11, 2021",The importance of web data and how to easily access it
+Attila Toth,"April 28, 2021",Zyte Developers Community newsletter issue #3
+Marc Hernandez Cabot,"May 6, 2021",Dateparser: A little but powerful date parsing library
+Attila Toth,"April 8, 2021",Zyte Developers Community newsletter issue #2
+Shane Evans,"February 2, 2021","Hi, we’re Zyte!"
+Attila Toth,"May 21, 2021",Zyte Developers Community newsletter issue #4
+Zyte team,"June 2, 2021",Extracting article & news data: The importance of data quality
+Roy Healy,"June 3, 2021",Extract JSONs like a pro with chompjs and JMESPath
+,,
+Zyte team,"June 3, 2021",Zyte Developers Community newsletter issue #5
+Zyte team,"December 30, 2020",Announcing The Web Data Extraction Summit 2020
+Zyte team,"December 31, 2020",Announcing the Web Data Extraction Summit 2020
+Attila Toth,"January 28, 2021",Large scale web scraping
+Zyte team,"February 1, 2021",Irish data extraction innovator unveils new name – and new AI-powered Automatic Extraction service
+Nikita Vostretsov,"February 18, 2021",Scrapy update: Better broad crawl performance
+Attila Toth,"March 11, 2021",Launching the Zyte Developers Community
+Zyte team,"February 25, 2021",Automatic Extraction: Better web data with less hassle
+John Campbell,"March 19, 2021",Insurance & credit scoring with alternative data
+Attila Toth,"March 29, 2021",Zyte Developers Community newsletter issue #1
+Zyte team,"July 21, 2020",Data center proxies vs. residential proxies
+Zyte team,"July 28, 2020",Your price intelligence questions answered
+Zyte team,"July 30, 2020",Blog comments API (BETA): Extract blog comment data at scale
+Zyte team,"August 6, 2020",Scrapy Cloud secrets: Hub Crawl Frontier and how to use it
+Zyte team,"August 27, 2020",Real estate: Use web data extraction to make smarter decisions
+Zyte team,"September 3, 2020",A practical guide to web data QA part IV: Complementing semi-automated techniques
+Zyte team,"July 14, 2020",How to get high success rates with proxies: 3 steps to scale up
+Kevin McKinless,"June 26, 2010","Hello, world"
+Zyte team,"September 30, 2020",A practical guide to web data QA part V: Broad crawls
+Kevin McKinless,"November 12, 2010",Spoofing your Scrapy bot IP using tsocks
+Kevin McKinless,"January 3, 2011",Scrapy 0.12 released
+Kevin McKinless,"April 20, 2011",Introducing w3lib and scrapely
+Kevin McKinless,"April 28, 2011",Dirbot: A new example Scrapy project
+Zyte team,"September 10, 2020",News & article data extraction: Open source vs closed source solutions
+Zyte team,"September 24, 2020",Announcing the Web Data Extraction Summit 2020
+Zyte team,"March 24, 2020",A practical guide to web data QA part I: Validation techniques
+Zyte team,"April 9, 2020",A practical guide to web data extraction QA part II: Common validation pitfalls
+Zyte team,"April 16, 2020",Vehicle API (beta): Extract automotive data at scale
+Zyte team,"April 28, 2020",Custom crawling & News API: designing a web scraping solution
+Zyte team,"May 19, 2020",Product reviews API (beta): Extract product reviews at scale
+Zyte team,"June 9, 2020",A practical guide to web data QA part III: Holistic data validation techniques
+Zyte team,"June 11, 2020",Price gouging or economics at work: Price intelligence to track consumer sentiment
+Zyte team,"March 25, 2020",Transitioning to remote working as a company
+Zyte team,"October 1, 2013",Marcos Campal is a ScrapingHubber!
+Zyte team,"December 31, 2013",Looking back at 2013
+Zyte team,"January 18, 2014",Open source at Zyte
+Zyte team,"March 26, 2014",Optimizing memory usage of Scikit-Learn models using succinct tries
+Zyte team,"April 1, 2014","Announcing Portia, the open-source visual web scraper!"
+Zyte team,"June 18, 2014",Extracting schema.org microdata using Scrapy selectors and XPath
+Zyte team,"June 27, 2014",Introducing data reviews
+Zyte team,"July 17, 2014",XPath tips from the web scraping trenches
+Kevin McKinless,"November 18, 2011",Scrapy 0.14 released
+Kevin McKinless,"February 27, 2012",Autoscraping casts a wider net
+Kevin McKinless,"February 27, 2012",Scrapy 0.15 dropping support for Python 2.5
+Kevin McKinless,"July 23, 2012",Finding similar items
+Kevin McKinless,"August 25, 2012",Spiders activity graphs
+Zyte team,"October 26, 2012",How to fill login forms automatically
+Zyte team,"March 6, 2013",Git workflow for Scrapy projects
+Zyte team,"May 11, 2013","Introducing Crawlera (now Zyte Smart Proxy Manager), a smart page downloader"
+Zyte team,"December 31, 2014",Looking back at 2014
+Zyte team,"January 22, 2015",Introducing ScrapyRT: An API for Scrapy spiders
+Attila Toth,"January 23, 2020",How to use a proxy in Puppeteer
+Zyte team,"January 30, 2020",Looking back at 2019
+Zyte team,"February 12, 2020",Best recruitment tips: How to scout top talent
+Zyte team,"May 13, 2013",Why MongoDB is a bad choice for storing our scraped data
+Zyte team,"February 18, 2020",Introducing Zyte Smart Proxy Manager (formerly Crawlera) — free trials & new plans
+Zyte team,"July 27, 2013",Introducing Dash
+Zyte team,"March 13, 2020",COVID-19: Handling the situation as a fully remote company
+Zyte team,"February 24, 2020",News web data extraction to predict Irish election results
+Zyte team,"February 27, 2020",How to scrape the web without getting blocked
+Zyte team,"March 3, 2020",Building spiders made easy: GUI for your Scrapy shell
+Zyte team,"March 5, 2020",Job postings beta API: Extract job postings at scale
+Zyte team,"March 12, 2020",Extracting clean article HTML with news API
+Zyte team,"July 9, 2020",Zyte Automatic Extraction job postings API: Stable release
+Zyte team,"July 7, 2020",Web scraping basics: A developer’s guide to reliably extract data
+Zyte team,"March 2, 2015",Handling JavaScript in Scrapy with Splash
+Zyte team,"March 16, 2015",Why we moved to Slack
+Zyte team,"March 5, 2015",Skinfer: A tool for inferring JSON schemas
+Zyte team,"March 16, 2015",The history of Scrapinghub
+Zyte team,"February 24, 2015",Scrapinghub (now Zyte) crawls the deep web
+Zyte team,"January 23, 2015",New changes to our Scrapy cloud platform
+Zyte team,"April 22, 2015",Frontera: The brain behind the crawls
+Zyte team,"April 28, 2015",A career in remote working
+Zyte team,"May 12, 2015",Traveling tips for remote workers
+Zyte team,"May 27, 2015",Gender inequality across programming languages
+Zyte team,"March 17, 2015",Zyte (formerly Scrapinghub): A remote working success story
+Zyte team,"April 7, 2015",Scrape data visually with Portia and Scrapy Cloud
+Zyte team,"June 8, 2015",Using git to manage vacations in a large distributed team
+Zyte team,"June 8, 2015",Aduana: Link analysis with Frontera
+Zyte team,"July 25, 2019",GDPR update: Scraping public personal data
+Zyte team,"August 8, 2019",How to set up a custom proxy in Scrapy?
+Attila Toth,"August 22, 2019",Learn how to configure and utilize proxies with Python requests module
+Zyte team,"August 29, 2019",The first-ever Web Data Extraction Summit!
+Zyte team,"September 5, 2019",Four use cases for online public sentiment data
+Zyte team,"September 12, 2019",Gain a competitive edge with product data
+Zyte team,"June 13, 2019",Solution architecture part 4: Accessing the technical feasibility of your web scraping project
+Zyte team,"October 8, 2019","Price intelligence with Python: Scrapy, SQL, and Pandas"
+Zyte team,"October 10, 2019",Web scraping questions & answers part I
+Zyte team,"October 15, 2019",Scrapy & Zyte Automatic Extraction API integration
+Zyte team,"October 17, 2019",Web scraping questions & answers part II
+Zyte team,"July 4, 2019",Solution architecture part 5: Designing a well-optimized web scraping solution
+Zyte team,"August 3, 2015",The road to loading JavaScript in Portia
+Zyte team,"December 3, 2015","Black Friday, Cyber Monday: Are they worth it?"
+Zyte team,"August 6, 2015",Distributed Frontera: Web crawling at scale
+Zyte team,"August 19, 2015",Introducing Javascript support for Portia
+Zyte team,"August 19, 2015",Scrapy on the road to Python 3 support
+Zyte team,"September 29, 2015",Aduana: Link analysis to crawl the web at scale
+Zyte team,"November 16, 2015",Tips for creating a cohesive company culture remotely
+Zyte team,"November 9, 2015",Parse natural language dates with Dateparser
+Zyte team,"December 16, 2015",Chats with RINAR Solutions
+Zyte team,"December 21, 2015",Winter sales showdown: Black Friday vs Cyber Monday vs Green Monday
+Zyte team,"December 31, 2015",Looking back at 2015
+Zyte team,"January 6, 2016",Christmas eve vs new year's eve: Last-minute price inflation?
+Zyte team,"January 13, 2016",Vizlegal: Rise of machine-readable laws and court judgments
+Zyte team,"January 19, 2016",Scrapy tips from the pros: part 1
+Zyte team,"January 27, 2016",Happy anniversary: Zyte (formerly Scrapinghub) turns 5
+Zyte team,"February 4, 2016",Python 3 is coming to Scrapy
+Zyte team,"March 15, 2019",St Patrick’s day special: Finding Dublin’s best pint of Guinness with web scraping
+Zyte team,"March 21, 2019",Navigating compliance when extracting web scraped alternative data for finance
+Zyte team,"April 5, 2019",Solution architecture part 2: How to define the scope of your web scraping project
+Zyte team,"April 9, 2019",Zyte’s (formerly Scrapinghub) new AI-powered Automatic Extraction API for e-commerce & article extraction
+Zyte team,"April 11, 2019",From the creators of Scrapy: Artificial intelligence data extraction API
+Zyte team,"May 9, 2019",Web data analysis: Exposing NFL player salaries with Python
+Zyte team,"March 5, 2019",Spidermon: Zyte's (formerly Scrapinghub) secret sauce to our data quality & reliability guarantee
+Zyte team,"February 29, 2016",Splash 2.0 is here with Qt 5 and Python 3
+Zyte team,"March 9, 2016",How web scraping is revealing lobbying and corruption in Peru
+Zyte team,"March 16, 2016",This month in open source at Scrapinghub (now Zyte) March 2016
+Zyte team,"March 23, 2016",Scrapy tips from the pros: March 2016 edition
+Zyte team,"March 30, 2016",Web scraping to create open data
+Zyte team,"April 6, 2016",Mapping corruption in the Panama papers with open data
+Zyte team,"April 14, 2016",Machine learning with web scraping: New MonkeyLearn addon
+Zyte team,"April 20, 2016",Scraping websites based on ViewStates with Scrapy
+Zyte team,"June 1, 2016",Introducing the Zyte Smart Proxy Manager (formerly Crawlera) dashboard
+Zyte team,"April 27, 2016",A (not so) short story on getting decent internet access
+Zyte team,"May 4, 2016",Introducing Scrapy Cloud 2.0
+Zyte team,"May 11, 2016",Scrapy + MonkeyLearn: Textual analysis of web data
+Zyte team,"May 18, 2016",How to debug your Scrapy spiders
+Zyte team,"May 25, 2016",Data extraction with Scrapy and Python 3
+Zyte team,"March 14, 2016",Join Scrapinghub for Google Summer of Code 2016
+Zyte team,"June 9, 2016",Introducing the Datasets catalog
+Zyte team,"June 15, 2016",This month in open source at Scrapinghub June 2016
+Zyte team,"June 22, 2016",Scraping infinite scrolling pages
+Zyte team,"May 30, 2019",Visual web scraping tools: What to do when they are no longer fit for purpose?
+Zyte team,"June 29, 2016",Introducing Portia2Code: Portia projects into Scrapy spiders
+Zyte team,"July 7, 2016",Scrapely: The brains behind Portia spiders
+Zyte team,"May 14, 2019",ScrapyRT: Turn websites into real-time APIs
+Zyte team,"May 23, 2019",Solution architecture part 3: Conducting a web scraping legal review
+Zyte team,"July 28, 2016",Meet Parsel: The selector library behind Scrapy
+Zyte team,"July 13, 2016",Improving access to Peruvian Congress bills with Scrapy
+Zyte team,"August 4, 2016",This month in open source at Scrapinghub (now Zyte) August 2016
+Zyte team,"August 11, 2016",What the Suicide Squad tells us about web data
+Zyte team,"August 17, 2016",Introducing Scrapy Cloud with Python 3 support
+Zyte team,"September 1, 2016",Improved Frontera: Web crawling at scale with Python 3 support
+Zyte team,"July 20, 2016",Incremental crawls with Scrapy and DeltaFetch
+Zyte team,"September 8, 2016",How to deploy custom docker images for your web crawlers
+Zyte team,"September 22, 2016",Embracing the future of work: How to communicate remotely
+Zyte team,"November 22, 2018",Shubber GetTogether 2018
+Zyte team,"December 13, 2018",Do what is right not what is easy!
+Zyte team,"December 21, 2018",Looking back at 2018
+Zyte team,"January 8, 2019",The challenges e-commerce retailers face managing their web scraping proxies
+Zyte team,"January 24, 2019",The predictive power of web scraped product data for institutional investors: A GoPro case study
+Zyte team,"August 25, 2016",How to crawl the web politely with Scrapy
+Zyte team,"February 1, 2019",The rise of web data in hedge fund decision making & the importance of data quality
+Zyte team,"February 7, 2019",Why we created Zyte Smart Proxy Manager (formerly Crawlera)?
+Zyte team,"February 15, 2019",A sneak peek inside Zyte Smart Proxy Manager (formerly Crawlera): The world’s smartest web scraping proxy network
+Zyte team,"March 1, 2019",Meet Spidermon: Zyte's (formerly Scrapinghub) battle-tested spider monitoring library [now open-sourced]
+Zyte team,"February 21, 2019",Proxy management: Should I build my proxy infrastructure in-house or use an off-the-shelf proxy solution?
+Zyte team,"February 10, 2016",Web scraping finds stores guilty of price inflation
+Zyte team,"February 17, 2016",Portia: The open-source alternative to Kimono labs
+Zyte team,"February 24, 2016",Scrapy tips from the pros: February 2016 edition
+Zyte team,"February 26, 2016",Migrate your Kimono projects to Portia
+Zyte team,"November 7, 2019","Scrapy, Matplotlib, and MySQL: Real estate data analysis"
+Zyte team,"November 14, 2019",How to use Zyte Smart Proxy Manager (formerly Crawlera) with Scrapy
+Zyte team,"December 10, 2019",Backconnect proxy: Explanation & comparison to other proxies
+Zyte team,"November 26, 2019",Price scraping: The best free tool to scrape prices
+Zyte team,"December 4, 2019",4 sectors that benefited most from business intelligence software
+Zyte team,"January 9, 2020",How to leverage alternative data in asset management
+Zyte team,"September 17, 2019",News data extraction at scale with AI-powered Zyte Automatic Extraction
+Zyte team,"September 26, 2019",The Web Data Extraction Summit 2019
+Zyte team,"June 12, 2015","EuroPython, here we go!"
+Zyte team,"June 19, 2015",Link analysis algorithms explained
+Zyte team,"June 25, 2015",Google Summer of Code 2015
+Zyte team,"July 15, 2015",PyCon Philippines 2015
+Zyte team,"July 17, 2015",StartupChats remote working Q&A
+Zyte team,"July 21, 2015",EuroPython 2015
+Zyte team,"December 15, 2016",How to increase sales with online reputation management
+Zyte team,"October 6, 2016",Interview: How Up Hail uses Scrapy to increase transparency
+Zyte team,"September 28, 2016",How to run Python scripts in Scrapy Cloud
+Zyte team,"October 19, 2016",Why promoting open data increases economic opportunities
+Zyte team,"October 27, 2016",An introduction to XPath: How to get started
+Zyte team,"November 10, 2016",How you can use web data to accelerate your startup
+Zyte team,"November 24, 2016",How to build your own price monitoring tool
+Zyte team,"July 7, 2017",Scraping the Steam game store with Scrapy
+Zyte team,"November 5, 2017","A faster, updated Scrapinghub (now Zyte)"
+Zyte team,"May 30, 2018",How data compliance companies are turning to web crawlers to take advantage of the GDPR business opportunity
+Zyte team,"June 7, 2018",Want to predict Fitbit’s quarterly revenue? Eagle Alpha did it using web scraped product data
+Zyte team,"December 31, 2017",Looking back at 2017
+Zyte team,"June 19, 2018",A sneak peek inside what hedge funds think of alternative financial data
+Zyte team,"July 2, 2018",Data for price intelligence: Lessons learned scraping 100 billion products pages
+Zyte team,"July 25, 2018",GDPR compliance for web scrapers: The step-by-step guide
+Zyte team,"September 12, 2018",What I learned as a Google Summer of Code student at Zyte (formerly Scrapinghub)
+Zyte team,"January 1, 2017",Looking back at 2016
+Zyte team,"April 19, 2017",Deploy your Scrapy spiders from GitHub
+Zyte team,"June 19, 2017",Do Androids dream of electric sheep?
+Zyte team,"September 27, 2018",Data quality assurance for enterprise web scraping
