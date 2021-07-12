@@ -23,7 +23,7 @@ To use this project you have to install the libraries, to do that use the follow
 pip install -r requirements.txt
 ```
 
-## Autores (☞ﾟヮﾟ)☞
+## Autors (☞ﾟヮﾟ)☞
 * Bladimir Huaraya Chara
 * Jorge Andre Salcedo Hurtado
 * Manuel Humberto Velarde Flores
