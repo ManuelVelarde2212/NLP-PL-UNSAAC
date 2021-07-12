@@ -7,9 +7,12 @@ To use this project you have to install the libraries, to do that use the follow
 pip install -r requirements.txt
 ```
 
-## Autores
+## Autores (☞ﾟヮﾟ)☞
+* Bladimir Huaraya Chara
+* Jorge Andre Salcedo Hurtado
+* Manuel Humberto Velarde Flores
 
-## Built With
+## Built With (⌐■_■)
 * [Python](https://www.python.org/)
 * [Kaggle](https://www.kaggle.com/)
 * [Selenium-python](https://selenium-python.readthedocs.io/)
