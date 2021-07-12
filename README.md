@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/ManuelVelarde2212/NLP-PL-UNSAAC">
     <img src="https://pa1.narvii.com/6463/ea0393633dc419d657126315d92ad86856cf7cd8_00.gif" alt="Logo" width="80" height="80">
   </a>
 
