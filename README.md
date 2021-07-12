@@ -18,7 +18,7 @@
  
 
 ## Libraries to use
-To use this project you have to install the libraries, to do that use the following command:
+To use this project you have to install the libraries, to do that use the following command
 ```
 pip install -r requirements.txt
 ```
